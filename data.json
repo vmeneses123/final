@@ -1,0 +1,48 @@
+{
+  "expenses": [
+    {
+      "category": "Food",
+      "amount": 0
+    },
+    {
+      "category": "Bills",
+      "amount": 0
+    },
+    {
+      "category": "Entertainment",
+      "amount": 0
+    },
+    {
+      "category": "Other",
+      "amount": 0
+    },
+    {
+      "category": "Food",
+      "amount": 12
+    },
+    {
+      "category": "Entertainment",
+      "amount": 12
+    },
+    {
+      "category": "Entertainment",
+      "amount": 12
+    },
+    {
+      "category": "Food",
+      "amount": 12
+    },
+    {
+      "category": "Food",
+      "amount": 12
+    },
+    {
+      "category": "Entertainment",
+      "amount": 0
+    },
+    {
+      "category": "Food",
+      "amount": 12
+    }
+  ]
+}
